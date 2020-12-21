@@ -3,3 +3,12 @@ body {
   background-color: black;
 }
 
+.container {
+  width: 1366px;
+  margin: 0 auto;
+}
+
+.user-info {
+  text-align: center;
+}
+

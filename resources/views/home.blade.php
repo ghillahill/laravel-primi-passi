@@ -6,7 +6,11 @@
         <title>Home</title>
     </head>
     <body>
-        <h1>Laravel</h1>
-        <p>Ciao {{$name}}</p>
+        <div class="container">
+            <div class="user-info">
+                <h1>Laravel</h1>
+                <p>Ciao {{$name}}</p>
+            </div>
+        </div>
     </body>
 </html>
